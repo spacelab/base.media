@@ -1,0 +1,15 @@
+$google-maps: false !default;
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+
+  vertical-align: middle;
+}
+
+@if $google-maps {
+  .gm-style img {
+    max-width: none;
+  }
+}
