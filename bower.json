@@ -6,13 +6,13 @@
     "Daniel Blomeyer"
   ],
   "description": "here be a description",
-  "main": "_spacelab-base.media.scss",
+  "main": "_base.media.scss",
   "keywords": [
     "spacelab",
     "css"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/comspace-dev/spacelab-base.media/",
+  "homepage": "https://github.com/spacelab/base.media/",
   "private": true,
   "ignore": [
     "**/.*",
