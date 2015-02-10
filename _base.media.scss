@@ -1,7 +1,8 @@
 $google-maps: false !default;
 
 img,
-video {
+video,
+svg {
   max-width: 100%;
   height: auto;
 
